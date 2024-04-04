@@ -135,5 +135,8 @@ table.html
 ## OUTPUT
 [/output](./img1.png)
 
+
+<img width="553" alt="Screenshot 2024-04-05 001119" src="https://github.com/SIVAmech123/slot/assets/151629067/5d57750f-0482-4f13-8fc8-dc5617486915">
+
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
